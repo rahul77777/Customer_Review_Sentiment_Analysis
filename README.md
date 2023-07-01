@@ -12,7 +12,7 @@ During the model building I have done
 #### Perfomerd EDA
     1. Almost 60% of the reviewers have given 5 out of 5 ratings to the products they buy from Flipkart and 80% are Positive reviews
     
-    ![Rating](https://github.com/rahul77777/Customer_Review_Sentiment_Analysis/assets/18098938/4687be07-9ecd-43f4-8768-b44526a03e36)
+    ![Rating](https://github.com/rahul77777/Customer_Review_Sentiment_Analysis/assets/18098938/be467547-494a-4453-a26a-6b7ed661dc87)
 
     2. I have use a word cloud to visualize the most used words in the reviews column
   
